@@ -31,7 +31,7 @@ We tried to make Command Hotkeys as easy to use and as qualitative as possible, 
 
 We have put a lot of effort into Command Hotkeys and would therefore be very thankful if you would share your opinion or suggestions for improvement with us.
 
-### **Download & Payment**
+### **Download**
 
 CommandHotkeys can be [downloaded here on Github or for free on our Tebex](https://codineer-digital.tebex.io/package/4242698).
 
