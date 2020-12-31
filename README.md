@@ -33,7 +33,7 @@ We have put a lot of effort into Command Hotkeys and would therefore be very tha
 
 ### **Download & Payment**
 
-CommandHotkeys can be [downloaded for free on our Tebex](https://codineer-digital.tebex.io/package/4242698).
+CommandHotkeys can be [downloaded here on Github or for free on our Tebex](https://codineer-digital.tebex.io/package/4242698).
 
 ### **Media**
 
